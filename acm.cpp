@@ -1,4 +1,5 @@
 #include <iostream>
+#include<conio.h>
 #include <math.h>
 using namespace std;
 #define Y_1900 1
